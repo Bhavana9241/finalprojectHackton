@@ -1,0 +1,38 @@
+export const resources = [
+  {
+    id: 1,
+    title: 'Understanding Anxiety',
+    description: 'An article that explains the symptoms and causes of anxiety.',
+    type: 'article',
+    url: 'https://www.moneycontrol.com/health-and-fitness/thyroid-diseases-symptoms-causes-and-treatment-explained-article-13702060.html',
+    tags: ['anxiety', 'mental health'],
+    isHelpful: false,
+  },
+  {
+    id: 2,
+    title: 'Mindfulness Meditation',
+    description: 'A guided meditation video to help you relax and de-stress.',
+    type: 'video',
+    url: 'https://www.youtube.com/watch?v=8-rFfUDkRJ8',
+    tags: ['meditation', 'mindfulness', 'stress'],
+    isHelpful: false,
+  },
+  {
+    id: 3,
+    title: 'Coping with Exam Stress',
+    description: 'Tips and techniques for managing stress during exam periods.',
+    type: 'article',
+    url: 'https://doctor.ndtv.com/living-healthy/8-strategies-to-cope-with-exam-stress-and-anxiety-7709797',
+    tags: ['stress', 'exams', 'academic'],
+    isHelpful: false,
+  },
+  {
+    id: 4,
+    title: 'The Importance of Sleep',
+    description: 'An infographic on how sleep affects mental health.',
+    type: 'infographic',
+    url: 'https://www.heart.org/en/healthy-living/healthy-lifestyle/sleep/how-sleep-affects-health-infographic',
+    tags: ['sleep', 'mental health'],
+    isHelpful: false,
+  },
+];
